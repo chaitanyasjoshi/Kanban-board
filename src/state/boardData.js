@@ -1,5 +1,5 @@
 import { Subject } from "rxjs";
-import { uuid } from 'uuidv4';
+import { v4 as uuidv4 } from 'uuid';
 
 let boardData = null;
 
@@ -81,7 +81,7 @@ export const addCard = (listId, content) => {
   const listCards = boardData[listId].cards;
   const position = Object.keys(listCards).length;
   const card = { position, card_content: content };
-  boardData[listId].cards[uuid()] = card;
+  boardData[listId].cards[uuidv4()] = card;
 
   boardDataSubject.next({ ...boardData });
 };
@@ -94,7 +94,7 @@ export const updateCard = (listId, cardId, content) => {
 export const addList = listTitle => {
   const position = Object.keys(boardData).length;
   const list = { position, list_title: listTitle, cards: {} };
-  boardData[uuid()] = list;
+  boardData[uuidv4()] = list;
   boardDataSubject.next({ ...boardData });
 };
 
