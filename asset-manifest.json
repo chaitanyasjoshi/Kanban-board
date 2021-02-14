@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/chaitanyasjoshi/Kanban-board/static/js/main.76fbed86.chunk.js",
-    "main.js.map": "/chaitanyasjoshi/Kanban-board/static/js/main.76fbed86.chunk.js.map",
-    "runtime-main.js": "/chaitanyasjoshi/Kanban-board/static/js/runtime-main.cafc2f5c.js",
-    "runtime-main.js.map": "/chaitanyasjoshi/Kanban-board/static/js/runtime-main.cafc2f5c.js.map",
-    "static/css/2.c8940395.chunk.css": "/chaitanyasjoshi/Kanban-board/static/css/2.c8940395.chunk.css",
-    "static/js/2.e0e67f17.chunk.js": "/chaitanyasjoshi/Kanban-board/static/js/2.e0e67f17.chunk.js",
-    "static/js/2.e0e67f17.chunk.js.map": "/chaitanyasjoshi/Kanban-board/static/js/2.e0e67f17.chunk.js.map",
-    "index.html": "/chaitanyasjoshi/Kanban-board/index.html",
-    "static/css/2.c8940395.chunk.css.map": "/chaitanyasjoshi/Kanban-board/static/css/2.c8940395.chunk.css.map",
-    "static/js/2.e0e67f17.chunk.js.LICENSE.txt": "/chaitanyasjoshi/Kanban-board/static/js/2.e0e67f17.chunk.js.LICENSE.txt",
-    "static/media/no_tasks.e3d3c397.svg": "/chaitanyasjoshi/Kanban-board/static/media/no_tasks.e3d3c397.svg"
+    "main.js": "/Kanban-board/static/js/main.76fbed86.chunk.js",
+    "main.js.map": "/Kanban-board/static/js/main.76fbed86.chunk.js.map",
+    "runtime-main.js": "/Kanban-board/static/js/runtime-main.6fb1848d.js",
+    "runtime-main.js.map": "/Kanban-board/static/js/runtime-main.6fb1848d.js.map",
+    "static/css/2.c8940395.chunk.css": "/Kanban-board/static/css/2.c8940395.chunk.css",
+    "static/js/2.83326f2e.chunk.js": "/Kanban-board/static/js/2.83326f2e.chunk.js",
+    "static/js/2.83326f2e.chunk.js.map": "/Kanban-board/static/js/2.83326f2e.chunk.js.map",
+    "index.html": "/Kanban-board/index.html",
+    "static/css/2.c8940395.chunk.css.map": "/Kanban-board/static/css/2.c8940395.chunk.css.map",
+    "static/js/2.83326f2e.chunk.js.LICENSE.txt": "/Kanban-board/static/js/2.83326f2e.chunk.js.LICENSE.txt",
+    "static/media/no_tasks.e3d3c397.svg": "/Kanban-board/static/media/no_tasks.e3d3c397.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cafc2f5c.js",
+    "static/js/runtime-main.6fb1848d.js",
     "static/css/2.c8940395.chunk.css",
-    "static/js/2.e0e67f17.chunk.js",
+    "static/js/2.83326f2e.chunk.js",
     "static/js/main.76fbed86.chunk.js"
   ]
 }
